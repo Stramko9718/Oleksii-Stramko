@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+}
+table {
+    margin: auto;
+    width: 960px;
+  }
+
+  .head{
+      text-align: center;
+  }
+
